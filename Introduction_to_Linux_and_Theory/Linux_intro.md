@@ -35,6 +35,7 @@ Conda is an open-source package management system and environment management sys
 
     cd Downloads/
     wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+    sudo chmod 777 Miniconda3-latest-Linux-x86_64.sh
     ./Miniconda3-latest-Linux-x86_64.sh
 
 For additionall installation documentation, you can refer [here](https://conda.io/projects/conda/en/latest/user-guide/install/linux.html)
