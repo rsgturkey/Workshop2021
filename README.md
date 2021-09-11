@@ -12,7 +12,7 @@ In this workshop, there will be both genomics and transcriptomic practical exerc
 
 As an introduction to the Linux environment for newcomers in computational biology, firstly definition of the operating system and main components will be mentioned. Then, Windows and Linux operating system will be compared in different aspects along with why Linux is much more commonly used in computational biology will be discussed. As a final, how to switch your operating system into Linux will be mentioned with an example of Ubuntu installation (Desktop and/or virtual machine).
 
-## Command Line Basics (Instructor: Eda Şamiloğlu)
+## [Command Line Basics (Instructor: Eda Şamiloğlu)](https://github.com/rsgturkey/Workshop2021/blob/main/Command_Line_Basics/Command_Line_Basics.pdf)
 
 In this part, we will describe how the Linux file system is structured and learn how to use basic commands to navigate the file system. List of basic commands presented below.
 
