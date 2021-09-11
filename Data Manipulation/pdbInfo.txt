@@ -1,0 +1,34 @@
+#!/bin/bash
+
+#PDB-code	Name          Structure          AA          Atom
+101M            Myglobin      helix              154         1413
+1AD1            Staph         helix              266         4395
+1AEY            SH3           sheet              57          476
+1C9O            CSPB          sheet              66          1404
+1CSP            CSPB          sheet              67          545
+1CSQ            CSPB          sheet              67          505
+1EYE            DHPS          helix              280         2123
+1G6K            GD            helix              261         8359
+1MJC            CSPA          sheet              69          550
+1TWS            DHPS          helix              297         4571
+1TWW            DHPS          helix              297         4320
+2DZB            DHPS          helix              294         4268
+2DQW            FoIP          helix              294         4445
+2I5L            CSPB          sheet              67          537
+2L15            CSPA          sheet              70          521
+2LSS            CSP           sheet              70          549
+2MO0            TaCSP         sheet              68          543
+3A0J            CSP           sheet              73          1343
+3I2Z            CSPA          sheet              71          1173
+3PF5            CSPB          sheet              67          1359
+3RIS            UCHL5         helix              243         7435
+3T7O            GYG1          helix              263         4884
+3TYA            DHPS          helix              297         4179
+4D8Z            DHPS          helix              297         4173
+4D9P            DHPS          helix              297         4203
+4MJK            CRISPR        helix              265         3953
+5JQ9            DHPS          helix              279         3875
+6L10            PHF20L1       sheet              70          2653
+6CLU            saDHPS        helix              291         7552
+6CLV            saDHPS        helix              291         7542
+6PZ2            FoIP          helix              267         2306
