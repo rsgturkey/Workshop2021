@@ -38,7 +38,7 @@ In this section, we will work on basic data manipulation commands by using Bash.
 - What are the advantages of using Bash for simple operation?
 
  
-## Practical session I –  Introduction to Genome Assembly  (Instructor: Yasin Kaya)
+## [Practical session I –  Introduction to Genome Assembly  (Instructor: Yasin Kaya)](https://github.com/rsgturkey/Workshop2021/blob/main/Intro2_denovo_assembly.md)
 
 In this section, we will assemble a consensus genome using Illumina WGS data (filtered clean data). We will cover the de novo assembly of an organism without a reference genome by accurately mapping the short reads. In doing so, we will follow the steps below:
 
