@@ -49,6 +49,7 @@ In this section, we will assemble a consensus genome using Illumina WGS data (fi
 - Visualizing the de novo assembly graph.
 
 ## Day 2: 13 September at 02:00 pm
+
 ## [Practical session II –  Introduction to RNA-seq Analysis (Instructor: Ravza Gür)](https://github.com/rsgturkey/Workshop2021/blob/main/PS2_Introduction_to_RNA-seq_Analysis/README.md)
 
 In this session, we will analyze RNA sequencing data using command-line tools and commands.
