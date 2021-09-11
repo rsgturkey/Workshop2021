@@ -27,7 +27,7 @@ In this part, we will describe how the Linux file system is structured and learn
 
 Then we will introduce text editors, specifically nano. We will create a text file and modify it by using nano. Last but not least, we will demonstrate version control by using git.
 
-## Data Manipulation  (Instructor: Sevilay Güleşen)
+## [Data Manipulation  (Instructor: Sevilay Güleşen)](https://github.com/rsgturkey/Workshop2021/blob/main/Data%20Manipulation/data%20manipulation.md)
 
 In this section, we will work on basic data manipulation commands by using Bash. We will answer the following questions:
 
