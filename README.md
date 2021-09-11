@@ -8,7 +8,7 @@ This workshop will teach you the theoretical background of the Linux environment
 In this workshop, there will be both genomics and transcriptomic practical exercises where attendees can apply the knowledge that will have acquired in the previous sessions. The first session will focus on building de novo genome assembly using long-reads. The transcriptomic session will walk you through the first steps of analyzing RNA sequencing data, from getting raw sequencing files to visualizing the data on a genome browser and counting the features.
 
 ## Day 1: 12 September at 03:00 pm
-## [Introduction to Linux and Theory (Instructor: Yiğit Koray Babal)](https://github.com/rsgturkey/Workshop2021/blob/main/Linux_intro.md)
+## [Introduction to Linux and Theory (Instructor: Yiğit Koray Babal)](https://github.com/rsgturkey/Workshop2021/blob/main/Introduction_to_Linux_and_Theory/Linux_intro.md)
 
 As an introduction to the Linux environment for newcomers in computational biology, firstly definition of the operating system and main components will be mentioned. Then, Windows and Linux operating system will be compared in different aspects along with why Linux is much more commonly used in computational biology will be discussed. As a final, how to switch your operating system into Linux will be mentioned with an example of Ubuntu installation (Desktop and/or virtual machine).
 
@@ -28,7 +28,7 @@ In this part, we will describe how the Linux file system is structured and learn
 
 Then we will introduce text editors, specifically nano. We will create a text file and modify it by using nano. Last but not least, we will demonstrate version control by using git.
 
-## [Data Manipulation  (Instructor: Sevilay Güleşen)](https://github.com/rsgturkey/Workshop2021/blob/main/Data%20Manipulation/data%20manipulation.md)
+## [Data Manipulation  (Instructor: Sevilay Güleşen)](https://github.com/rsgturkey/Workshop2021/blob/main/Data_Manipulation/data_manipulation.md)
 
 In this section, we will work on basic data manipulation commands by using Bash. We will answer the following questions:
 
@@ -38,7 +38,7 @@ In this section, we will work on basic data manipulation commands by using Bash.
 - What are the advantages of using Bash for simple operation?
 
  
-## [Practical session I –  Introduction to Genome Assembly  (Instructor: Yasin Kaya)](https://github.com/rsgturkey/Workshop2021/blob/main/Intro2_denovo_assembly.md)
+## [Practical session I –  Introduction to Genome Assembly  (Instructor: Yasin Kaya)](https://github.com/rsgturkey/Workshop2021/blob/main/PS1_Introduction_to_Genome_Assembly/Intro2_denovo_assembly.md)
 
 In this section, we will assemble a consensus genome using Illumina WGS data (filtered clean data). We will cover the de novo assembly of an organism without a reference genome by accurately mapping the short reads. In doing so, we will follow the steps below:
 
@@ -49,7 +49,7 @@ In this section, we will assemble a consensus genome using Illumina WGS data (fi
 - Visualizing the de novo assembly graph.
 
 ## Day 2: 13 September at 02:00 pm
-## Practical session II –  Introduction to RNA-seq Analysis (Instructor: Ravza Gür)
+## [Practical session II –  Introduction to RNA-seq Analysis (Instructor: Ravza Gür)](https://github.com/rsgturkey/Workshop2021/blob/main/PS2_Introduction_to_RNA-seq_Analysis)
 
 In this session, we will analyze RNA sequencing data using command-line tools and commands.
 
