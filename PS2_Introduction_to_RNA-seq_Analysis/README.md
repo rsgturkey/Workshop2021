@@ -17,9 +17,9 @@
 - [FastQC - conda installation](https://anaconda.org/bioconda/fastqc)
 - [STAR Aligner Manual - info](https://github.com/alexdobin/STAR/blob/master/doc/STARmanual.pdf)
 - [STAR Aligner - conda installation](https://anaconda.org/bioconda/star)
-- [Samtools](http://www.htslib.org/)
+- [Samtools - info](http://www.htslib.org/)
 - [Samtools - conda installation](https://anaconda.org/bioconda/samtools)
-- [FeatureCounts from Subread](http://bioinf.wehi.edu.au/featureCounts/)
+- [FeatureCounts from Subread - info](http://bioinf.wehi.edu.au/featureCounts/)
 - [Subread - conda installation](https://anaconda.org/bioconda/subread)
 - [Integrative Genomics Viewer - IGV](http://software.broadinstitute.org/software/igv/home)
 
