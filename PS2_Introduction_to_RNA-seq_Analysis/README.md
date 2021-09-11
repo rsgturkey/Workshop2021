@@ -27,4 +27,9 @@
 ### Some Reading
 - [A survey of best practices for RNA-seq data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8)
 - [How many biological replicates are needed in an RNA-seq experiment and which differential expression tool should you use?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4878611/)
+- [Sequence Alignment/Map Format Specification](https://samtools.github.io/hts-specs/SAMv1.pdf)
 - [Current best practices in single-cell RNA-seq analysis: a tutorial](https://www.embopress.org/doi/full/10.15252/msb.20188746)
+
+### Further info
+- [Bioconductor - Open Source Software for Bionformatics](https://www.bioconductor.org/)
+- [Gene Expression Omnibus Database - GEO](https://www.ncbi.nlm.nih.gov/sites/GDSbrowser/)
