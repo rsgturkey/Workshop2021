@@ -8,7 +8,7 @@ This workshop will teach you the theoretical background of the Linux environment
 In this workshop, there will be both genomics and transcriptomic practical exercises where attendees can apply the knowledge that will have acquired in the previous sessions. The first session will focus on building de novo genome assembly using long-reads. The transcriptomic session will walk you through the first steps of analyzing RNA sequencing data, from getting raw sequencing files to visualizing the data on a genome browser and counting the features.
 
 ## Day 1: 12 September at 03:00 pm
-## [Introduction to Linux and Theory (Instructor: Yiğit Koray Babal)](https://github.com/rsgturkey/Workshop2021/blob/main/Introduction_to_Linux_and_Theory/Linux_intro.md)
+## [Introduction to Linux and Theory (Instructor: Yiğit Koray Babal)](https://github.com/rsgturkey/Workshop2021/blob/main/Introduction_to_Linux_and_Theory/README.md)
 
 As an introduction to the Linux environment for newcomers in computational biology, firstly definition of the operating system and main components will be mentioned. Then, Windows and Linux operating system will be compared in different aspects along with why Linux is much more commonly used in computational biology will be discussed. As a final, how to switch your operating system into Linux will be mentioned with an example of Ubuntu installation (Desktop and/or virtual machine).
 
@@ -28,7 +28,7 @@ In this part, we will describe how the Linux file system is structured and learn
 
 Then we will introduce text editors, specifically nano. We will create a text file and modify it by using nano. Last but not least, we will demonstrate version control by using git.
 
-## [Data Manipulation  (Instructor: Sevilay Güleşen)](https://github.com/rsgturkey/Workshop2021/blob/main/Data_Manipulation/data_manipulation.md)
+## [Data Manipulation  (Instructor: Sevilay Güleşen)](https://github.com/rsgturkey/Workshop2021/blob/main/Data_Manipulation/README.md)
 
 In this section, we will work on basic data manipulation commands by using Bash. We will answer the following questions:
 
@@ -61,5 +61,5 @@ We will cover the following analysis steps of RNA-seq:
 - Mapping sequencing reads to a reference genome using an aligner (STAR)
 - Understanding the alignment file as an output of the mapping step
 - Manipulating biological files via samtools
-- Generating a bigwig file to upload to the UCSC Genome browser
+- Visualizing bam file via Integrative Genomics Viewer (IGV)
 - Counting number of reads that mapped to genes
