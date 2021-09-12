@@ -1,5 +1,3 @@
-#!/bin/bash
-
 #PDB-code	Name          Structure          AA          Atom
 101M            Myglobin      helix              154         1413
 1AD1            Staph         helix              266         4395
