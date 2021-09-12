@@ -12,6 +12,8 @@ In this workshop, there will be both genomics and transcriptomic practical exerc
 
 As an introduction to the Linux environment for newcomers in computational biology, firstly definition of the operating system and main components will be mentioned. Then, Windows and Linux operating system will be compared in different aspects along with why Linux is much more commonly used in computational biology will be discussed. As a final, how to switch your operating system into Linux will be mentioned with an example of Ubuntu installation (Desktop and/or virtual machine).
 
+[Presentation](https://github.com/rsgturkey/Workshop2021/blob/main/Introduction_to_Linux_and_Theory/Introduction_to_Linux.pdf)
+
 ## [Command Line Basics (Instructor: Eda Şamiloğlu)](https://github.com/rsgturkey/Workshop2021/blob/main/Command_Line_Basics/Command_Line_Basics.pdf)
 
 In this part, we will describe how the Linux file system is structured and learn how to use basic commands to navigate the file system. List of basic commands presented below.
@@ -28,6 +30,8 @@ In this part, we will describe how the Linux file system is structured and learn
 
 Then we will introduce text editors, specifically nano. We will create a text file and modify it by using nano. Last but not least, we will demonstrate version control by using git.
 
+[Presentation](https://github.com/rsgturkey/Workshop2021/blob/main/Command_Line_Basics/Command_Line_Basics.pptx)
+
 ## [Data Manipulation  (Instructor: Sevilay Güleşen)](https://github.com/rsgturkey/Workshop2021/blob/main/Data_Manipulation/README.md)
 
 In this section, we will work on basic data manipulation commands by using Bash. We will answer the following questions:
@@ -37,7 +41,8 @@ In this section, we will work on basic data manipulation commands by using Bash.
 - How does the bash script make this manipulation faster?
 - What are the advantages of using Bash for simple operation?
 
- 
+[Presentation](https://github.com/rsgturkey/Workshop2021/blob/main/Data_Manipulation/DataManipulationWS.pdf)
+
 ## [Practical session I –  Introduction to Genome Assembly  (Instructor: Yasin Kaya)](https://github.com/rsgturkey/Workshop2021/blob/main/PS1_Introduction_to_Genome_Assembly/Intro2_denovo_assembly.md)
 
 In this section, we will assemble a consensus genome using Illumina WGS data (filtered clean data). We will cover the de novo assembly of an organism without a reference genome by accurately mapping the short reads. In doing so, we will follow the steps below:
@@ -47,6 +52,8 @@ In this section, we will assemble a consensus genome using Illumina WGS data (fi
 - Constructing a De Bruijn graph assembly for contigs.
 - Statistical analysis of the assembled contigs.
 - Visualizing the de novo assembly graph.
+
+[Presentation](https://github.com/rsgturkey/Workshop2021/blob/main/PS1_Introduction_to_Genome_Assembly/GA_workshop_2.pdf)
 
 ## Day 2: 13 September at 02:00 pm
 
