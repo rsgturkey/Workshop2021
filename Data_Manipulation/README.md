@@ -9,6 +9,6 @@ errors for just a few commands. You can check your SHELL type with the following
 
     echo $SHELL
 
-We will analyze the [pdbInfo.txt](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/rsgturkey/Workshop2021/blob/main/Data%20Manipulation/pdbInfo.txt) data file by using bash commands in the workshop.
+We will analyze the [pdbInfo.txt](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/rsgturkey/Workshop2021/blob/main/Data_Manipulation/toy_data/pdbInfo.txt) data file by using bash commands in the workshop.
 
-Simply download the [pdbInfo.txt](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/rsgturkey/Workshop2021/blob/main/Data%20Manipulation/pdbInfo.txt) file to be ready for the Data Manipulation Workshop.
+You can download the **pdbInfo.txt** file from **"toy_data" folder** to be ready for the Data Manipulation Workshop.
