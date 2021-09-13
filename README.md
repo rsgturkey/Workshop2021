@@ -70,3 +70,5 @@ We will cover the following analysis steps of RNA-seq:
 - Manipulating biological files via samtools
 - Visualizing bam file via Integrative Genomics Viewer (IGV)
 - Counting number of reads that mapped to genes
+
+[Presentation](https://github.com/rsgturkey/Workshop2021/blob/main/PS2_Introduction_to_RNA-seq_Analysis/RSGworkshop2021_IntroRNAseq_Analysis.pdf)
